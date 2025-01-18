@@ -1,0 +1,97 @@
+
+/* Styling Header */
+.header{
+    text-align: center;
+    background: linear-gradient(rgb(106, 103, 103), black);
+    height:35px;
+    padding: 20px 30px;
+    font-size: 27px;
+    font-family: "Roboto Slab", serif;
+    font-optical-sizing: auto;
+    font-weight: 250;
+    font-style: normal;
+    color: rgb(255, 0, 0);
+    cursor:pointer;
+}
+
+.header:hover{
+    color: rgb(176, 14, 14);
+}
+/* Header Styling End  */
+
+
+/* Styling Footer */
+.footer{
+    text-align: center;
+    background-color: black;
+    height:40px;
+    padding: 40px 30px;
+    color: red;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.footer:hover{
+    color: rgb(191, 0, 0);
+}
+/* Footer Styling End  */
+
+
+/* Adding background Image to the 1st Div and Applying Properties */
+.image1{
+    height:900px;
+    background-image: url("Images/Image1.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
+/* 1st Div End */
+
+/* Adding background Image to the 2nd Div and Applying Properties */
+.image2{
+    height:900px;
+    background-image: url(Images/Image2.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+/* 2nd Div End */
+
+/* Adding background Image to the 3rd Div and Applying Properties */
+.image3{
+    height:900px;
+    background-image: url("Images/Image3.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+/* 3rd Div End */
+
+/* Adding background Image to the 4th Div and Applying Properties */
+.image4{
+    height:1200px;
+    background-image: url(Images/Image4.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+/* 4th Div End */
+
+
+/* Styling All Paragraphs */
+.paragraph{
+    background: linear-gradient(rgba(255, 0, 0, 0.403),red);
+    float: left;
+    margin: 0px;
+    font-family: "Roboto Slab", serif;
+    font-optical-sizing: auto;
+    font-weight: 450;
+    font-style: normal;
+    font-size: 25px;
+}
+/* Paragraph Styling End */
