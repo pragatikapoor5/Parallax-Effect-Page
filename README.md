@@ -1,2 +1,2 @@
 # Parallax-Effect-Page
-The web page is representing the parallax effect based on the theme - STRANGER THINGS
+The page is representing the parallax scrolling effect based on the theme - STRANGER THINGS with 4 Images used.
